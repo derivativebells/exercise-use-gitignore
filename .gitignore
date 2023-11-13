@@ -4,4 +4,4 @@ z*
 #manual files .env
 .env
 #tld directories artifacts ignore
-/artifacts
+/artifacts/
