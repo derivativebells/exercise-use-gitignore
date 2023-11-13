@@ -1,1 +1,7 @@
 node_modules/
+#manual all files that start with z
+z*
+#manual files .env
+.env
+#tld directories artifacts ignore
+/artifacts
